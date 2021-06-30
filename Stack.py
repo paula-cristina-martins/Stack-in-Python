@@ -37,3 +37,4 @@ class Stack:
             maquina_cartao = self.estoque_maquina.pop()
             maquina_cartao['Data / Horário de Saída'] = final
             return maquina_cartao
+

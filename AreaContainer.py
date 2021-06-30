@@ -48,3 +48,4 @@ class AreaContainer:
                 print(
                     f"-> Tempo aguardado para envio.......: {estoque_maquina['Data / Horário de Saída']-estoque_maquina['Data / Hora de Entrada']}")
                 break
+
