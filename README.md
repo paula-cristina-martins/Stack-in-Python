@@ -8,4 +8,4 @@ A criação de um sistema de linha produção. O sistema desenvolvido tem por ob
 
 > :computer: Curso: Bacharelado em Ciência da Computação - Unifeg - 3º Período
 
-> :green_book: Matéria: Estrutura de dados e algoritmos
+> :green_book: Matéria: Estrutura de Dados e Algoritmos
