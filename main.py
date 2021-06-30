@@ -105,7 +105,7 @@ if (info == 1):
     else:
         print('Opção Inválida!')
 
-print("\nnAgradecemos por utilizar nossos serviços!\n\n")
+print("\nAgradecemos por utilizar nossos serviços!\n\n")
 
 # ------------------------------------------------------------------------------------------------------------ #
 
